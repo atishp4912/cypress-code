@@ -1,0 +1,36 @@
+[
+    {
+        "firstName":"atish ",
+        "lastName":"pawar",
+        "email":"atishp4912@gmail.com",
+        "massage":"i am learning python"
+    },
+    
+    {
+        "firstName":"munna ",
+        "lastName":"pawar",
+        "email":"atish23456@gmail.com",
+        "massage":"i am learning java"
+    },
+    
+    {
+        "firstName":"amar ",
+        "lastName":"pawar",
+        "email":"apawar3142@gmail.com",
+        "massage":"i am learning car"
+    },
+    
+    {
+        "firstName":"shivam",
+        "lastName":"kaoulage",
+        "email":"shivam123@gmail.com",
+        "massage":"i am learning dance"
+    },
+    
+    {
+        "firstName":"aayush ",
+        "lastName":"pawar",
+        "email":"Aayush22@gmail.com",
+        "massage":"i am learning english"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity":false,
+   " includeShadowDom":true,
+   "integrationFolder":"cypress/integration",
+   "screenshotonRunFailure":true,
+   "screenshotsFolder":"cypress/integration/screenshots"
+
+}
